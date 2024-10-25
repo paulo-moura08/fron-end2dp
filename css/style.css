@@ -1,0 +1,4 @@
+.degrade-ifms{
+    background: rgb(186,223,180);
+background: linear-gradient(60deg, rgba(186,223,180,1) 0%, rgba(181,200,18,1) 6%, rgba(63,181,81,1) 44%, rgba(41,195,52,1) 66%, rgba(161,170,2,1) 88%, rgba(187,188,94,1) 93%, rgba(255,235,0,1) 100%);
+}
